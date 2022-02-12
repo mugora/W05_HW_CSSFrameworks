@@ -1,0 +1,11 @@
+@import "custom";
+@import "main";
+
+body{
+  color: #e9e6e6;
+}
+
+.carousel-inner > .item > img {
+  width:640px;
+  height:360px;
+}

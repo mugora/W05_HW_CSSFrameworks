@@ -1,0 +1,12 @@
+//only the variables overriding boostrap formats can be done above the import line
+$body-bg: #1c4731;
+$body-color: #e9e6e6;
+
+
+
+
+
+//the import is at the bottom
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import "css/bootstrap.css";
+
